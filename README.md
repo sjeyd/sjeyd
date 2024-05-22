@@ -1,4 +1,4 @@
-![logo](https://github.com/sjeyd/sjeyd/blob/main/readme%20banner.jpg)
+![logo](https://github.com/sjeyd/sjeyd/blob/main/readme_mainbanner.jpg)
 <h1 align="center">Hi there, I'm Sahil</h1>
 <h3 align="center">I need problems to solve. Would love it if they are nerve-wracking!</h3>
 
