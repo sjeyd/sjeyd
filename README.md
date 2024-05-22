@@ -1,8 +1,8 @@
-![logo](https://github.com/sjeyd/sjeyd/blob/main/readme_mainbanner.jpg)
+![logo](https://github.com/sjeyd/sjeyd/blob/main/banner.png)
 <h1 align="center">Hi there, I'm Sahil</h1>
 <h3 align="center">I need problems to solve. Would love it if they are nerve-wracking!</h3>
 
-<img src="https://github.com/sjeyd/sjeyd/blob/main/readme%20pic.jpg" align="right" width="400px">
+<img src="https://github.com/sjeyd/sjeyd/blob/main/readme%20pic.jpg" align="right" width="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjeyd&label=Profile%20views&color=0e75b6&style=flat" alt="sjeyd" /> </p>
 
